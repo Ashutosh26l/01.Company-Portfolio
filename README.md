@@ -42,47 +42,7 @@ Lightbox for image previews 🔍.<br>
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Technologies Used</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0;
-            font-family: 'Montserrat', sans-serif;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 12px;
-            text-align: left;
-        }
-        th {
-            background-color: #f4f4f4;
-            font-weight: bold;
-        }
-        tr:nth-child(even) {
-            background-color: #f9f9f9;
-        }
-        img {
-            width: 24px;
-            vertical-align: middle;
-        }
-    </style>
-</head>
-<body>
-    <table>
-        <thead>
-            <tr>
-                <th>Technology</th>
-                <th>Description</th>
-                <th>Icon</th>
-            </tr>
-        </thead>
-        <tbody>
+
             <tr>
                 <td>HTML5</td>
                 <td>Semantic and structured content</td>
@@ -187,22 +147,6 @@ Make changes and commit (git commit -m "Add feature").<br>
 Push to the branch (git push origin feature-branch).<br>
 Open a Pull Request 📬.<br>
 
-
-<h3>📞 Contact</h3><br>
-Reach out to GO GREEN:<br>
-
-Address: 123 Lodha Colony, New Delhi, Delhi, India 📍<br>
-Phone: +91 888-674-3833 ☎️<br>
-Email: info@gogreen.com ✉️<br>
-Website: go-green-developments.netlify.app 🌐<br>
-
-<h3>Follow us on social media:</h3><br>
-
-Twitter 🐦<br>
-Facebook 📘<br>
-LinkedIn 💼<br>
-Instagram 📸<br>
-YouTube 🎥<br>
 
 
 
