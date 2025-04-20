@@ -43,6 +43,17 @@ Lightbox for image previews 🔍.<br>
 
 
 
+
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Technology</th>
+                <th>Description</th>
+                <th>Icon</th>
+            </tr>
+        </thead>
+        <tbody>
             <tr>
                 <td>HTML5</td>
                 <td>Semantic and structured content</td>
