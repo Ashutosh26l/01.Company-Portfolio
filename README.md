@@ -42,7 +42,7 @@ Lightbox for image previews 🔍.<br>
 
 
 
-
+<h3>Technologies Used</h3><br>
 
 <body>
     <table>
