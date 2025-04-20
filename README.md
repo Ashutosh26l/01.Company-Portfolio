@@ -15,30 +15,30 @@ GO GREEN is a professional, responsive HTML template built to showcase your busi
 
 <h2><b>✨ Features</b></h2>
 
-Responsive Design 📱: Adapts seamlessly to desktops, tablets, and mobile devices.
-Modern UI/UX 🎨: Clean, professional design with smooth animations and transitions.
-Key Sections:
-🏠 Home: Carousel slider showcasing web, app, and game development services.
-ℹ️ About Us: Highlights mission, vision, and objectives with engaging visuals.
-🛠️ Services: Displays web design, web development, app design, and app development.
-📸 Portfolio: Filterable gallery for projects (Web Design, Web Dev, App Design, App Dev).
-💰 Pricing: Three plans (Silver, Gold, Platinum) with detailed features.
-📬 Contact Us: Contact form, Google Maps, and contact details.
+Responsive Design 📱:<br> Adapts seamlessly to desktops, tablets, and mobile devices.<br>
+Modern UI/UX 🎨: Clean, professional design with smooth animations and transitions.<br><br>
+Key Sections:<br>
+🏠 Home: Carousel slider showcasing web, app, and game development services.<br>
+ℹ️ About Us: Highlights mission, vision, and objectives with engaging visuals.<br>
+🛠️ Services: Displays web design, web development, app design, and app development.<br>
+📸 Portfolio: Filterable gallery for projects (Web Design, Web Dev, App Design, App Dev).<br>
+💰 Pricing: Three plans (Silver, Gold, Platinum) with detailed features.<br>
+📬 Contact Us: Contact form, Google Maps, and contact details.<br>
+<br>
 
+<h3>Interactive Elements:</h3><br>
+Dropdown navigation menu 📜.<br>
+Lightbox gallery for portfolio images 🖼️.<br>
+Progress bars for skills 📊.<br>
+Counter animations for stats (staff, clients, projects) 🔢.<br>
 
-<h3>Interactive Elements:</h3>
-Dropdown navigation menu 📜.
-Lightbox gallery for portfolio images 🖼️.
-Progress bars for skills 📊.
-Counter animations for stats (staff, clients, projects) 🔢.
-
-
-<h3>External Libraries:</h3>
-Bootstrap 4 for responsive grids.
-IonIcons for icons 🖌️.
-Owl Carousel for sliders 🎠.
-Lightbox for image previews 🔍.
-
+<br><br>
+<h3>External Libraries:</h3><br>
+Bootstrap 4 for responsive grids.<br>
+IonIcons for icons 🖌️.<br>
+Owl Carousel for sliders 🎠.<br>
+Lightbox for image previews 🔍.<br>
+<br>
 
 
 
@@ -114,98 +114,95 @@ Lightbox for image previews 🔍.
 </html>
 
 
-Vendor Libraries:
+<h2>Vendor Libraries:<br></h2>
 
-IonIcons 🖌️
-Owl Carousel 🎠
-Lightbox 🔍
-Superfish (dropdown menus)
-Waypoints (scroll animations)
-CounterUp (counter animations)
+IonIcons 🖌️<br>
+Owl Carousel 🎠<br>
+Lightbox 🔍<br>
+Superfish (dropdown menus)<br>
+Waypoints (scroll animations)<br>
+CounterUp (counter animations)<br>
 
 
-📦 Installation
-To run the project locally:
+<h2>📦 Installation<br></h2>
+To run the project locally:<br>
 
-Clone the Repository:git clone https://github.com/your-username/go-green.git
+Clone the Repository:git clone https://github.com/your-username/go-green.git<br>
 
 
 Navigate to the Project Directory:cd go-green
+<br>
 
-
-Open the Website:
-Open index.html in a web browser.
+<h2>Open the Website:</h2><br>
+Open index.html in a web browser.<br>
 Or use a local server for a better experience:npm install -g http-server
 http-server
 
 
 
+<br><br>
 
 
-
-📂 Project Structure
-go-green/
-├── css/
-│   └── style.css           # Main stylesheet
-├── img/                   # Images for sliders, portfolio, etc.
-├── js/
-│   └── main.js            # Main JavaScript file
-├── vendor/                # External libraries (Bootstrap, jQuery, etc.)
-├── index.html             # Home page
-├── about.html             # About Us page
-├── service.html           # Services page
-├── portfolio.html         # Portfolio page
-├── price.html             # Pricing page
-├── contact.html           # Contact page
-└── README.md              # This file
-
-
-🚀 Usage
-
-Navigation: Use the top navigation bar to explore sections (Home, About, Services, Portfolio, Price, Contact).
-Portfolio Filtering: Filter projects by category (All, Web Design, Web Development, App Design, App Development) 🗂️.
-Contact Form: Submit inquiries via the contact form (requires backend integration for functionality) 📧.
-Social Links: Connect via social media links in the footer 🌐.
+<h2>📂 Project Structure<br></h2>
+go-green/<br>
+├── css/<br>
+│   └── style.css           # Main stylesheet<br>
+├── img/                   # Images for sliders, portfolio, etc.<br>
+├── js/<br>
+│   └── main.js            # Main JavaScript file<br>
+├── vendor/                # External libraries (Bootstrap, jQuery, etc.)<br>
+├── index.html             # Home page<br>
+├── about.html             # About Us page<br>
+├── service.html           # Services page<br>
+├── portfolio.html         # Portfolio page<br>
+├── price.html             # Pricing page<br>
+├── contact.html           # Contact page<br>
+└── README.md              # This file<br>
 
 
-🌐 Deployment
-The website is live at: go-green-developments.netlify.app.
+<h2>🚀 Usage</h2><br>
+
+Navigation: Use the top navigation bar to explore sections (Home, About, Services, Portfolio, Price, Contact).<br>
+Portfolio Filtering: Filter projects by category (All, Web Design, Web Development, App Design, App Development) 🗂️.<br>
+Contact Form: Submit inquiries via the contact form (requires backend integration for functionality) 📧.<br>
+Social Links: Connect via social media links in the footer 🌐.<br>
+
+
+<h2>🌐 Deployment</h2><br>
+The website is live at: go-green-developments.netlify.app.<br>
 To deploy your own version:
 
-Push the repository to GitHub.
-Connect to Netlify via the Netlify dashboard.
-Set the build command to none and publish directory to ./.
-Deploy and access the site via the Netlify URL.
+Push the repository to GitHub.<br>
+Connect to Netlify via the Netlify dashboard.<br>
+Set the build command to none and publish directory to ./.<br>
+Deploy and access the site via the Netlify URL.<br>
 
 
-🤝 Contributing
-We welcome contributions! To contribute:
+<h2>🤝 Contributing<br></h2>
+We welcome contributions! To contribute:<br>
 
-Fork the repository 🍴.
-Create a new branch (git checkout -b feature-branch).
-Make changes and commit (git commit -m "Add feature").
-Push to the branch (git push origin feature-branch).
-Open a Pull Request 📬.
+Fork the repository 🍴.<br>
+Create a new branch (git checkout -b feature-branch).<br>
+Make changes and commit (git commit -m "Add feature").<br>
+Push to the branch (git push origin feature-branch).<br>
+Open a Pull Request 📬.<br>
 
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+<h3>📞 Contact</h3><br>
+Reach out to GO GREEN:<br>
 
-📞 Contact
-Reach out to GO GREEN:
+Address: 123 Lodha Colony, New Delhi, Delhi, India 📍<br>
+Phone: +91 888-674-3833 ☎️<br>
+Email: info@gogreen.com ✉️<br>
+Website: go-green-developments.netlify.app 🌐<br>
 
-Address: 123 Lodha Colony, New Delhi, Delhi, India 📍
-Phone: +91 888-674-3833 ☎️
-Email: info@gogreen.com ✉️
-Website: go-green-developments.netlify.app 🌐
+<h3>Follow us on social media:</h3><br>
 
-Follow us on social media:
-
-Twitter 🐦
-Facebook 📘
-LinkedIn 💼
-Instagram 📸
-YouTube 🎥
+Twitter 🐦<br>
+Facebook 📘<br>
+LinkedIn 💼<br>
+Instagram 📸<br>
+YouTube 🎥<br>
 
 
 
