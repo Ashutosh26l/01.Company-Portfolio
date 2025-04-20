@@ -13,7 +13,7 @@ GO GREEN is a professional, responsive HTML template built to showcase your busi
 <br>
 
 
-<h3>✨ Features</h3>
+<h3><b>✨ Features</b></h3>
 
 Responsive Design 📱: Adapts seamlessly to desktops, tablets, and mobile devices.
 Modern UI/UX 🎨: Clean, professional design with smooth animations and transitions.
