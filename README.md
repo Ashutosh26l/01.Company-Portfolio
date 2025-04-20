@@ -3,7 +3,7 @@ Welcome to the GO GREEN HTML Business Template 🚀, a sleek and modern website 
 🔗 Live Demo: go-green-developments.netlify.app
 <br>
 <br>
-<h3>📋 Overview</h3>
+<h3><strong>📋 Overview</strong></h3>
 GO GREEN is a professional, responsive HTML template built to showcase your business’s services, portfolio, and pricing. With a clean design and smooth interactivity, it’s perfect for businesses aiming to establish a strong online presence. The template leverages modern web technologies to deliver a seamless user experience across devices.
 
   
