@@ -26,14 +26,14 @@ Key Sections:
 📬 Contact Us: Contact form, Google Maps, and contact details.
 
 
-Interactive Elements:
+<h3>Interactive Elements:</h3>
 Dropdown navigation menu 📜.
 Lightbox gallery for portfolio images 🖼️.
 Progress bars for skills 📊.
 Counter animations for stats (staff, clients, projects) 🔢.
 
 
-External Libraries:
+<h3>External Libraries:</h3>
 Bootstrap 4 for responsive grids.
 IonIcons for icons 🖌️.
 Owl Carousel for sliders 🎠.
