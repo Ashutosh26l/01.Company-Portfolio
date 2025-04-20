@@ -42,39 +42,76 @@ Lightbox for image previews 🔍.
 
 
 
-🛠️ Technologies Used
-
-
-
-Technology
-Description
-Icon
-
-
-
-HTML5
-Semantic and structured content
-
-
-
-CSS3
-Styling and animations
-
-
-
-Bootstrap 4
-Responsive layout and components
-
-
-
-JavaScript/jQuery
-Interactivity and dynamic features
-
-
-
-Google Fonts
-Montserrat and Nunito typography
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technologies Used</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-family: 'Montserrat', sans-serif;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+            font-weight: bold;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        img {
+            width: 24px;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Technology</th>
+                <th>Description</th>
+                <th>Icon</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>HTML5</td>
+                <td>Semantic and structured content</td>
+                <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Icon"></td>
+            </tr>
+            <tr>
+                <td>CSS3</td>
+                <td>Styling and animations</td>
+                <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3 Icon"></td>
+            </tr>
+            <tr>
+                <td>Bootstrap 4</td>
+                <td>Responsive layout and components</td>
+                <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap Icon"></td>
+            </tr>
+            <tr>
+                <td>JavaScript/jQuery</td>
+                <td>Interactivity and dynamic features</td>
+                <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon"></td>
+            </tr>
+            <tr>
+                <td>Google Fonts</td>
+                <td>Montserrat and Nunito typography</td>
+                <td><img src="https://img.shields.io/badge/Google-Fonts-4285F4?style=flat-square&logo=google" alt="Google Fonts Icon"></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
 
 
 Vendor Libraries:
