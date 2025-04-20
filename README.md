@@ -69,7 +69,6 @@ http-server
 
 
 
-Project Structure
 go-green/
 ├── css/
 │   └── style.css           # Main stylesheet
